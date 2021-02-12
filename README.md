@@ -3,7 +3,7 @@
 
 【软件】Termius
 
-【版本】v7.5.2
+【版本】v7.5.3
 
 【替换文件】软件安装路径（如`C:\Users\Vicosna\AppData\Local\Programs\Termius\`)下的 `resources`目录下的`app.asar`
 

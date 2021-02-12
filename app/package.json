@@ -1,6 +1,6 @@
 {
   "name": "Termius",
-  "version": "7.5.2",
+  "version": "7.5.3",
   "main": "js/main-process.js",
   "description": "Desktop SSH Client",
   "homepage": "https://termius.com/",
