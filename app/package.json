@@ -1,17 +1,16 @@
 {
   "name": "Termius",
-  "version": "7.5.3",
+  "version": "7.11.3",
   "main": "js/main-process.js",
   "description": "Desktop SSH Client",
   "homepage": "https://termius.com/",
   "author": "Termius Corporation <support@termius.com>",
   "dependencies": {
-    "@sentry/electron": "^2.1.0",
-    "@termius/keytar": "7.2.0-electron-11.0.0",
-    "@termius/libtermius": "0.39.4-electron-11.0.0",
-    "@termius/mosh": "1.0.2-electron-11.0.0",
-    "@termius/node-pty": "0.9.0-electron-11.0.0-arm64-4",
-    "@termius/restore-mas-purchase": "0.1.0-electron-11.0.0-arm64-5",
+    "@termius/keytar": "7.2.0-electron-11.0.0-ts-1",
+    "@termius/libtermius": "0.39.7-electron-11.0.0",
+    "@termius/mosh": "1.0.4-electron-11.0.0",
+    "@termius/node-pty": "0.9.0-electron-11.0.0-ts-1",
+    "@termius/restore-mas-purchase": "0.1.0-electron-11.0.0-ts-1",
     "@termius/windows-iap-bridge": "0.0.1-electron-11.0.0-rc1",
     "iconv-lite": "^0.6.2"
   },

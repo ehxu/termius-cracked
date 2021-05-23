@@ -1,9 +1,11 @@
-# Termius最新破解版
+# Termius 最新破解版
 ### 使用须知
 
 【软件】Termius
 
-【版本】v7.5.3
+【版本】v7.11.3
+
+【更新日期】2021/05/23
 
 【替换文件】软件安装路径（如`C:\Users\Vicosna\AppData\Local\Programs\Termius\`)下的 `resources`目录下的`app.asar`
 
@@ -17,7 +19,7 @@
 
 ### 使用方法
 
-- 前往[官网](https://termius.com/)下载`Termius`安装包或者解压本项目`install`目录下的安装包；
+- 前往[官网](https://termius.com/)下载`Termius`安装包或[releases](./releases) 页面下载指定版本安装包
 
 - 右键`以管理员方式运行`，安装完成后打开软件安装路径（如`C:\Users\Vicosna\AppData\Local\Programs\Termius\`)，将 `resources`目录下原版的`app.asar`删除，将破解版的`app`整个目录移动到将 `resources`目录下即可完成破解。
 
