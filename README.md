@@ -3,9 +3,9 @@
 
 【软件】Termius
 
-【版本】v7.11.3
+【版本】v7.13
 
-【更新日期】2021/05/23
+【更新日期】2021/06/21
 
 【替换文件】软件安装路径（如`C:\Users\Vicosna\AppData\Local\Programs\Termius\`)下的 `resources`目录下的`app.asar`
 
